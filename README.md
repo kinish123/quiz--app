@@ -1,4 +1,4 @@
-# this is the quiz project
+# This is the quiz project
 
 <br>
 consists of five questions
